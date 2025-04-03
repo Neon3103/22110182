@@ -12,3 +12,4 @@ if is_prime(n):
     print(f"{n} là số nguyên tố.")
 else:
     print(f"{n} không phải là số nguyên tố.")
+    
